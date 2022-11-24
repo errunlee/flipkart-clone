@@ -1,0 +1,25 @@
+@media screen and (max-width:1050px){
+  header{
+    height:18vh;
+  }
+  nav{
+    flex-direction: column;
+  }
+  .logo{
+    justify-content: center;
+  }
+  nav ul{
+  justify-content: center;
+
+  }
+  .input input{
+    height:30px;
+  }
+  h2{
+    text-align:center;
+    margin:0;
+  }
+  .container{
+    height:auto;
+  }
+}
